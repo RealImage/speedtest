@@ -35,7 +35,7 @@ ENV TELEMETRY=false
 ENV ENABLE_ID_OBFUSCATION=false
 ENV REDACT_IP_ADDRESSES=false
 
-# Final touches
+# Final touches pujitha
 
 EXPOSE 80
 CMD ["bash", "/entrypoint.sh"]
